@@ -1,0 +1,27 @@
+{
+  "name": "cognito-global-sign-out-every-user",
+  "version": "1.0.0",
+  "description": "Script to apply cognito-idp admin-user-global-sign-out to every user in a pool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuliohc/cognito-global-sign-out-every-user.git"
+  },
+  "keywords": [
+    "cognito-idp",
+    "sign-out"
+  ],
+  "author": "Túlio Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuliohc/cognito-global-sign-out-every-user/issues"
+  },
+  "homepage": "https://github.com/tuliohc/cognito-global-sign-out-every-user#readme",
+  "dependencies": {
+    "aws-sdk": "^2.720.0",
+    "interval-promise": "^1.4.0"
+  }
+}
