@@ -15,7 +15,7 @@
     "sign-out"
   ],
   "author": "Túlio Costa",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tuliohc/cognito-global-sign-out-every-user/issues"
   },
